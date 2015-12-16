@@ -1,5 +1,5 @@
 - Name: *Joshua Jorenby*
 - Location: *Minneapolis, MN*
 - Favorite food: *Garlic*
-- Favorite color: *Blue*
+- Favorite color: *Slate Blue*
 - Hobby: *Learning*
